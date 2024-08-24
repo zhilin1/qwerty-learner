@@ -1,0 +1,98 @@
+[
+  {
+    "name": "turtle",
+    "trans": [
+      "乌龟，海归"
+    ]
+  },
+  {
+    "name": "forward",
+    "trans": [
+      "向前走"
+    ]
+  },
+  {
+    "name": "left",
+    "trans": [
+      "左转"
+    ]
+  },
+  {
+    "name": "right",
+    "trans": [
+      "右转"
+    ]
+  },
+  {
+    "name": "pen",
+    "trans": [
+      "画笔"
+    ]
+  },
+  {
+    "name": "penup()",
+    "trans": [
+      "抬笔"
+    ]
+  },
+  {
+    "name": "pendown()",
+    "trans": [
+      "落笔"
+    ]
+  },
+  {
+    "name": "pencolor()",
+    "trans": [
+      "画笔颜色"
+    ]
+  },
+  {
+    "name": "pensize()",
+    "trans": [
+      "画笔粗细"
+    ]
+  },
+  {
+    "name": "goto()",
+    "trans": [
+      "移到x,y"
+    ]
+  },
+  {
+    "name": "speed()",
+    "trans": [
+      "速度"
+    ]
+  },
+  {
+    "name": "for i in range():",
+    "trans": [
+      "重复执行"
+    ]
+  },
+  {
+    "name": "circle()",
+    "trans": [
+      "画圆"
+    ]
+  },
+  {
+    "name": "clear()",
+    "trans": [
+      "擦除所有"
+    ]
+  },
+  {
+    "name": "tracer(False)",
+    "trans": [
+      "关闭轨迹"
+    ]
+  },
+  {
+    "name": "update()",
+    "trans": [
+      "更新"
+    ]
+  }
+]
