@@ -1,5 +1,11 @@
 [
     {
+        "name": "turtle",
+        "trans": [
+            "设置画布大小及颜色"
+        ]
+    },
+    {
         "name": "screensize",
         "trans": [
             "设置画布大小及颜色"
